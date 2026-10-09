@@ -1,0 +1,25 @@
+# Design Spec Requirements
+
+Font: Roboto (you will need to download and install this font if you don’t already have it)
+Dark background color (header, hero section and footer): #1F2937
+Logo text:
+Font size: 24px
+Color: #F9FAF8
+Hero section main text (“This website is awesome”):
+Font size: 48px
+Color: #F9FAF8
+Weight: 900
+Hero secondary text (“This website has some subtext…”) and header links:
+Font size: 18px
+Color: #E5E7EB
+Button and “Call to action” background color: #3882F6
+Information heading:
+Font size: 36px
+Color: #1F2937
+Weight: 900
+Quote:
+Background color: #E5E7EB
+Font size: 36px
+Color: #1F2937
+Weight: 300
+Font style: italic
