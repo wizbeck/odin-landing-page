@@ -8,5 +8,5 @@
 
 
 **Specs**
-The Spec guidelines for the project can be found at [./SPEC.md] for more information.
-The design guidelines provided have been separated out to [./DESIGN.md] for reference.
+The Spec guidelines for the project can be found at [SPEC.md](./spec.md) for more information.
+The design guidelines provided have been separated out to [DESIGN.md](./DESIGN.md) for reference.
